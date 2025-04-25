@@ -6,9 +6,7 @@
 - 📫 How to reach me: caio.lene.magalhaes@gmail.com
 - 🔗 LinkedIn: [linkedin.com/in/caio-lene-campos-magalh%C3%A3es-863479354/](https://www.linkedin.com/in/caio-lene-campos-magalh%C3%A3es-863479354/)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=CaioLCM&show_icons=true&theme=dark" />
-</a>
+
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CaioLCM&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark" />
 </a>
