@@ -1,15 +1,11 @@
 ## Hello! I'm CaioLCM
 
-- 🏫 I’m currently studying at the Federal University of Itajubá  
+- 🏫 I’m currently studying at the Federal University of Itajubá and working as intern at Makasí
 - 🌱 Backend and AI dev
 - 💡 My main interests are Cybersecurity, Software Engineering, and Artificial Intelligence
 - 📫 How to reach me: caio.lene.magalhaes@gmail.com
 - 🔗 LinkedIn: [linkedin.com/in/caio-lene-campos-magalh%C3%A3es-863479354/](https://www.linkedin.com/in/caio-lene-campos-magalh%C3%A3es-863479354/)
 
-
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CaioLCM&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark" />
-</a>
 <div style="display: inline_block"><br>
   <img align="center" alt="Caio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Caio-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
