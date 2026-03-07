@@ -1,8 +1,7 @@
 ## Hello! I'm CaioLCM
 
-- 🏫 I’m currently studying at the Federal University of Itajubá and working as intern at Makasí
-- 🌱 Backend and AI dev
-- 💡 My main interests are Cybersecurity, Software Engineering, and Artificial Intelligence
+- 🏫 I’m currently studying at the Federal University of Itajubá and working as an intern at Makasí (AI Engineering)
+- 🌱 Backend and AI engineering
 - 📫 How to reach me: caio.lene.magalhaes@gmail.com
 - 🔗 LinkedIn: [linkedin.com/in/caio-lene-campos-magalh%C3%A3es-863479354/](https://www.linkedin.com/in/caio-lene-campos-magalh%C3%A3es-863479354/)
 
