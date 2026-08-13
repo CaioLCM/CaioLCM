@@ -1,6 +1,6 @@
 ## Hello! I'm CaioLCM
 
-- 🏫 I’m currently studying at the Federal University of Itajubá and working as an intern at Makasí (AI Engineering)
+- 🏫 I’m currently studying at the Federal University of Itajubá and working as an AI Engineer at Makasí 
 - 🌱 Backend and AI engineering
 - 📫 How to reach me: caio.lene.magalhaes@gmail.com
 - 🔗 LinkedIn: [linkedin.com/in/caio-lene-campos-magalh%C3%A3es-863479354/](https://www.linkedin.com/in/caio-lene-campos-magalh%C3%A3es-863479354/)
